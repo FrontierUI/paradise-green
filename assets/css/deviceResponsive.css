@@ -1,0 +1,47 @@
+@media screen and (min-width: 1299px) and (max-width: 1390px) {
+  .paradiseHeroSec {
+    height: 82vh !important;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .paradiseHeroSec {
+    height: 81vh !important;
+  }
+
+  .marginBot1 {
+    margin-bottom: 1rem;
+  }
+  .marginTop1 {
+    margin-top: 1rem;
+  }
+  .marginTop05 {
+    margin-top: 0.5rem;
+  }
+
+  .featuredProds::before {
+    width: 307px;
+  }
+
+  .featuredProdsImage {
+    left: 10% !important;
+    width: 200px !important;
+    height: 250px !important;
+  }
+
+  .paraArrow {
+    right: 0 !important;
+    width: 5rem !important;
+    height: 5rem !important;
+  }
+
+  .whyArrow {
+    width: 5rem !important;
+    height: 5rem !important;
+    left: 1.25rem !important;
+  }
+
+  .paraCol {
+    margin-right: 1rem !important;
+  }
+}

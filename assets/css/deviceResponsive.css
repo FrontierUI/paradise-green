@@ -4,6 +4,12 @@
   }
 }
 
+@media screen and (min-width: 1027px) {
+  .pad3 {
+    padding: 3rem !important;
+  }
+}
+
 @media screen and (max-width: 575px) {
   .paradiseHeroSec {
     height: 81vh !important;
